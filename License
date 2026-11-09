@@ -1,0 +1,12 @@
+
+---
+
+## 3. `.gitignore`
+
+```gitignore
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+wordlist*.txt
